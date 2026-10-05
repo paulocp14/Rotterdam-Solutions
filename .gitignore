@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Dependencies (not needed for static but keep)
+node_modules/
+dist/
